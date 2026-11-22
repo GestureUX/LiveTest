@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LiveTest</string>
+    <string name="title_activity_main">LiveTest</string>
+    <string name="package_name">com.demon.livetest</string>
+    <string name="custom_url_scheme">com.demon.livetest</string>
+</resources>
